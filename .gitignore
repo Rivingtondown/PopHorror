@@ -1,11 +1,35 @@
-img/*
 icon/*
 movies/*
 audio/*
 fonts/*
 Pop!*
-!img/pictures
 data/Test_*.json
+
+img/animations
+img/battlebacks*/*
+img/enemies
+img/parallaxes
+img/pictures
+img/sv_*/*
+img/titles*/*
+
+img/system/MadeWithMV.png
+img/system/Weapons1.png
+img/system/Weapons2.png
+img/system/Weapons3.png
+
+img/characters/$BigMonster*.png
+img/characters/!Other*.png
+img/characters/!Flame.png
+img/characters/!$Gate*.png
+img/characters/!Crystal.png
+img/characters/!Switch*.png
+
+img/tilesets/Dungeon*.*
+img/tilesets/Inside*.*
+img/tilesets/Outside*.*
+img/tilesets/SF_*.*
+img/tilesets/World_*.*
 
 #############
 ## Windows detritus
